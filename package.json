@@ -1,0 +1,25 @@
+{
+  "name": "authx",
+  "version": "1.0.0",
+  "description": "NPM Package for Authx with Gluu",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xblockchainlabs/node-authx.git"
+  },
+  "author": "Nikhil Lanjewar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xblockchainlabs/node-authx/issues"
+  },
+  "homepage": "https://github.com/xblockchainlabs/node-authx#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.0",
+    "http-errors": "^1.7.0",
+    "openid-client": "git+https://git@github.com/xblockchainlabs/node-openid-client.git"
+  }
+}
