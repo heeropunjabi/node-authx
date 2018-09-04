@@ -1,5 +1,5 @@
 {
-  "name": "node-authx",
+  "name": "authx",
   "version": "1.0.0",
   "description": "NPM Package for Authx with Gluu",
   "main": "lib/index.js",
