@@ -1,6 +1,6 @@
 {
   "name": "authx",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "NPM Package for Authx with Gluu",
   "main": "lib/index.js",
   "scripts": {
@@ -21,6 +21,8 @@
     "express": "^4.16.0",
     "http-errors": "^1.7.0",
     "moment": "^2.22.2",
+    "nodemailer": "^4.6.8",
+    "nodemailer-sendgrid-transport": "^0.2.0",
     "openid-client": "git+https://git@github.com/xblockchainlabs/node-openid-client.git"
   }
 }
