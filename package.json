@@ -1,6 +1,6 @@
 {
   "name": "authx",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "description": "NPM Package for Authx with Gluu",
   "main": "lib/index.js",
   "scripts": {
